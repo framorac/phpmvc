@@ -1,6 +1,6 @@
 {
-    "name": "femora/colmesoft",
-    "description": "Sistema web para apicultores Chilenos",
+    "name": "femora/phpmvc",
+    "description": "Microframework para proyectos PHP",
     "type": "project",
     "license": "GPLv3.0",
     "authors": [
