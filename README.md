@@ -6,3 +6,4 @@ Microframework para desarrollo de proyectos PHP.
 
 - [ ] Agregar ORM
 - [ ] CSRF
+- [ ] Middleware
