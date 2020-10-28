@@ -1,6 +1,6 @@
 {
-    "name": "femora/phpmvc",
-    "description": "Microframework para proyectos PHP",
+    "name": "framorac/phpmvc",
+    "description": "Microframework PHP",
     "type": "project",
     "license": "GPLv3.0",
     "authors": [
