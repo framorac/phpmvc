@@ -21,7 +21,7 @@ class HomeController
     public function index()
     {
         $data = [
-            'name' => $this->request->getParameter('name', 'Francisco'),
+            'name' => $this->request->getParameter('name', 'John Doe'),
         ];
         $html = $this->renderer->render('home', $data);
         $this->response->setContent($html);
